@@ -1,0 +1,11 @@
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\bin\Debug\netcoreapp2.1\CodeBreaker.deps.json
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\bin\Debug\netcoreapp2.1\CodeBreaker.runtimeconfig.json
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\bin\Debug\netcoreapp2.1\CodeBreaker.runtimeconfig.dev.json
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\bin\Debug\netcoreapp2.1\CodeBreaker.dll
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.csprojAssemblyReference.cache
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.AssemblyInfoInputs.cache
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.AssemblyInfo.cs
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\bin\Debug\netcoreapp2.1\CodeBreaker.pdb
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.dll
+C:\Users\Austin\source\repos\CodeBreaker\CodeBreaker\obj\Debug\netcoreapp2.1\CodeBreaker.pdb
